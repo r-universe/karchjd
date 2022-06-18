@@ -1,0 +1,10 @@
+[
+  {
+    "package": "altR2",
+    "oncran": true
+  },
+  {
+    "package": "gppm",
+    "oncran": true
+  }
+]
