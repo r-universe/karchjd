@@ -5,3 +5,6 @@
 [submodule "altR2"]
 	path = altR2
 	url = https://github.com/karchjd/altr2
+[submodule "lavaangui"]
+	path = lavaangui
+	url = https://github.com/karchjd/lavaangui
