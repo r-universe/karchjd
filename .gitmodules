@@ -7,7 +7,7 @@
 	url = https://github.com/karchjd/rsquaredmi
 [submodule "TauStar"]
 	path = TauStar
-	url = https://github.com/cran/TauStar
+	url = https://github.com/karchjd/taustar
 [submodule "altR2"]
 	path = altR2
 	url = https://github.com/karchjd/altr2
