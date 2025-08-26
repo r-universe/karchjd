@@ -11,6 +11,9 @@
 [submodule "altR2"]
 	path = altR2
 	url = https://github.com/karchjd/altr2
+[submodule "gppm"]
+	path = gppm
+	url = https://github.com/karchjd/gppm
 [submodule "lavaangui"]
 	path = lavaangui
 	url = https://github.com/karchjd/lavaangui
